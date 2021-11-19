@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexxaug
 - 👀 I’m interested in how things work, creating web apps, mobile apps, and servers, alll this kinda stuff. I don't know much
-- 🌱 I’m currently learning Vanilla Javascript.
+- 🌱 I’m currently learning Javascript and PHP.
 - 💞️ I’m looking to collaborate on (I have no idea. Nothing yet?)
 - 📫 How to reach me > alexxaug@outlook.com
 
